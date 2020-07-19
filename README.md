@@ -27,5 +27,7 @@ A api Restfull desenvolvida para a aplicação GoBarber fornece os dados e regra
 
 ### Rotas da API:
 
-<a href="https://github.com/camilaseasky/apiGoBarber/blob/master/Insomnia_2020-07-19.json">arquivo json</a>
+<a href="https://github.com/camilaseasky/apiGoBarber/blob/master/Insomnia_2020-07-19.json">
+  :page_with_curl:  arquivo json
+</a>
 
