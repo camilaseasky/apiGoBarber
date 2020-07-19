@@ -25,5 +25,7 @@ A api Restfull desenvolvida para a aplicação GoBarber fornece os dados e regra
 * Arquitetura com DDD
 * TDD com jest
 
+### Rotas da API:
 
+<a href="https://github.com/camilaseasky/apiGoBarber/blob/master/Insomnia_2020-07-19.json">arquivo json</a>
 
